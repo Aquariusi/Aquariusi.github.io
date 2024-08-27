@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.streamx" name="Aquariusi.github.io
+" version="1.0.0" provider-name="Aquariusi">
+    <extension point="xbmc.addon.repository" name="Streamx Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/Aquariusi/Aquariusi.github.io/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Aquariusi/Aquariusi.github.io/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Aquariusi/Aquariusi.github.io/master/repo/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Aquariusi/Aquariusi.github.io</summary>
+        <description>A very simple Kodi Build for a Netflix style interface</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
