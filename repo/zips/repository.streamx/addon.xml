@@ -9,7 +9,7 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>Aquariusi/Aquariusi.github.io</summary>
+        <summary>Aquariusi.github.io</summary>
         <description>A very simple Kodi Build for a Netflix style interface</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
